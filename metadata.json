@@ -1,0 +1,6 @@
+{
+  "name": "Secure Login System",
+  "description": "A modern, secure, and minimal full-stack authentication system focusing on security best practices, JWT, HTTP-only cookies, password validation, rate limiting, and optional 2FA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
